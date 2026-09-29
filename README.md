@@ -38,7 +38,7 @@ Focused on end-to-end software engineering. Specialized in the design, developme
 
 | Project | Action | Stack | Link | Repo |
 | :--- | :--- | :--- | :--- | :--- |
-| **Task Manager API** | RESTful API to provide infrastructure for a frontend | NestJS, TypeScript, TypeOrm, PostgreSQL, Docker, Neon.tech db, Render Service, Jest | [app](https://task-manager-api-9gi8.onrender.com/api/v1/docs) | [repo](https://github.com/ivanepais/task-manager-api) |
+| **Task Manager API** | A RESTful API to provide infrastructure for a frontend | NestJS, TypeScript, TypeOrm, PostgreSQL, Docker, Neon.tech db, Render Service, Jest | [app](https://task-manager-api-9gi8.onrender.com/api/v1/docs) | [repo](https://github.com/ivanepais/task-manager-api) |
 | **Porfolio** | A simple portfolio for you to customize | Angular, Typescript, Tailwind, GitHub Actions, Vitest | [app](https://ivanepais.github.io/portfolio) | [repo](https://github.com/ivanepais/porfolio) |
 | **Today APP** | Keep your actions up to date | React, Typescript, StyledComponents, Vite, Vitest | [app](https://ivanepais.github.io/today-app) | [repo](https://github.com/ivanepais/today-app) |
 
