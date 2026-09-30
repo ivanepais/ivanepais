@@ -45,5 +45,5 @@ Focused on end-to-end software engineering. Specialized in the design, developme
 
 ## Contact
 
-* [LinkedIn](linkedin.com/in/ivan-pais)
+* [LinkedIn](https://www.linkedin.com/in/ivan-pais)
 * [Send me an email](mailto:ivan.e.pais@gmail.com)
